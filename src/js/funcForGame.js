@@ -9,7 +9,7 @@ export function activHole(index) {
 }
 
 export function randomHole(index) {
-  let randomIndex = Math.floor(1 + Math.random() * 16);
+  let randomIndex = Math.floor(1 + Math.random() * 15);
   if (index === randomIndex) {
     randomHole(index);
   }
