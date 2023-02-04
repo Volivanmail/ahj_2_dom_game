@@ -3,9 +3,8 @@
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
-
-# actions
-![CI](https://github.com/Volivanmail/ahj_2_dom_game/actions/workflows/web.yml/badge.svg)
+# Github-pages:
+https://Volivanmail.github.io/ahj_2_dom_game/
 
 # appveyor
 
