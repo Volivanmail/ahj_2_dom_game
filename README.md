@@ -4,10 +4,7 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 
-<!-- # Github Actions:
-![CI](https://github.com/Volivanmail/hj_2_dom_game/) -->
-<!-- # Github-pages:
-https://Volivanmail.github.io/hj_2_dom_game/ -->
+[![GitHub Actions Demo](https://github.com/Volivanmail/ahj_2_dom_game/actions/workflows/web.yml/badge.svg)](https://github.com/Volivanmail/ahj_2_dom_game/actions/workflows/web.yml)
 
 # appveyor
 
