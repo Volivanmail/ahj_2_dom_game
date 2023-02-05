@@ -5,7 +5,7 @@
 
 
 # Github Actions:
-![CI](https://github.com/Volivanmail/hj_2_dom_game/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Volivanmail/hj_2_dom_game/)
 <!-- # Github-pages:
 https://Volivanmail.github.io/hj_2_dom_game/ -->
 
