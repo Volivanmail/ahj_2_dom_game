@@ -15,7 +15,7 @@ body {
 }
 
 .hole-game {
-  width: 750px;
+  /* width: 750px; */
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
