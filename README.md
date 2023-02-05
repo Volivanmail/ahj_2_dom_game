@@ -4,7 +4,7 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 # Github-pages:
-https://Volivanmail.github.io/ahj_2_dom_game/
+https://Volivanmail.github.io/hj_2_dom_game
 
 # appveyor
 
